@@ -14,7 +14,7 @@ The Chula Cheerleading and Card Stunt Club strictly prohibits public distributio
 
 ## Copyright & Ownership
 **Copyright © 2024 Chula Cheerleading and Card Stunt Club, Chulalongkorn University.**  
-Developed by **[pornvutp@gmail.com]** and **[tharawaranuset@gmail.com]**. All rights reserved.
+Built by **[pornvutp@gmail.com]** and Developed by **[tharawaranuset@gmail.com]**. All rights reserved.
 
 This software, including its associated files, documentation, and assets, is the **exclusive intellectual property** of the **Chula Cheerleading and Card Stunt Club**.
 
@@ -29,7 +29,7 @@ This project is protected under the **Copyright Act B.E. 2537 of Thailand**. Any
 ## Contact
 For inquiries or permission requests, please contact:
 - **Chula Cheerleading and Card Stunt Club**
-- **Email:** [pornvutp@gmail.com], [tharawaranuset@gmail.com]
+- **Email:** [tharawaranuset@gmail.com]
 
 ---
 **© 2024 Chula Cheerleading and Card Stunt Club, Chulalongkorn University.**
